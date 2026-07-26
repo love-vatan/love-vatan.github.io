@@ -447,8 +447,6 @@ ul{
 
 .hero::before{
 
-    content:"";
-
     position:absolute;
 
     width:450px;
