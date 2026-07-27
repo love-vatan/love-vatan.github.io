@@ -470,13 +470,13 @@ ul{
 
 .hero::after{
 
-    content:"";
+    
 
     position:absolute;
 
-    width:180px;
+    width:10px;
 
-    height:180px;
+    height:10px;
 
     background:
 
